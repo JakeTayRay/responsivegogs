@@ -1,6 +1,6 @@
 /* put your css changes here */
 
-/* @import url("dark_theme.css"); */
+/*@import url("dark_theme.css");*/
 
 .pages label{
     padding-right: .5em;
@@ -9,4 +9,16 @@
 
 .pages div{
     padding-bottom: .5em;
+}
+
+.ui.tabular.menu .item{
+    color:black;
+}
+
+.ui.breadcrumb a{
+    color:black;
+}
+
+.ui.basic.blue.button, .ui.basic.blue.buttons .button{
+    color:black;
 }
