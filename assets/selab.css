@@ -12,13 +12,37 @@
 }
 
 .ui.tabular.menu .item{
-    color:black;
+    color:black!important;
 }
 
 .ui.breadcrumb a{
-    color:black;
+    color:black!important;
 }
 
 .ui.basic.blue.button, .ui.basic.blue.buttons .button{
-    color:black;
+    color:black!important;
+}
+
+a{
+    color:black!important;
+}
+
+.ui .text.grey{
+    color:black!important;
+}
+
+footer{
+    color:black!important;
+}
+
+.ui.breadcrumb .divider{
+    color:black!important;
+}
+
+.ui.menu .item>.label{
+    color:black!important;
+}
+
+.ui.basic.button, .ui.basic.buttons .button{
+    color:black!important;
 }
