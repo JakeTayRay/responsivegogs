@@ -46,3 +46,8 @@ footer{
 .ui.basic.button, .ui.basic.buttons .button{
     color:black!important;
 }
+
+footer{
+    position:fixed!important;
+    bottom:0;
+}
